@@ -5,5 +5,4 @@ function M = FunkCalcMatrix(a, b)
     
     % Berechnung der Matrix M
     M = [a b'];
-
 end
